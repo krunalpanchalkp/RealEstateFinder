@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>sdwd</h1>
+<h1>Login</h1>
+<br><br> 
+	
+	<a href="signup">Signup</a> 
+	<a href="forgetpassword">ForgetPassword?</a> 
 </body>
 </html>
